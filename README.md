@@ -1,8 +1,5 @@
 # Getting start
 
-## clone files
-`git clone git@bitbucket.org:fan_letter/mate.git`
-
 ## make environment file
 ### main
 `cp .env.example .env`
