@@ -1,0 +1,44 @@
+{
+  "name": "spoty-front",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next -p 2000",
+    "build": "next build",
+    "start": "next start -p 8080",
+    "tslint": "tslint -c tslint.json -p tsconfig.json"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.6.1",
+    "@material-ui/icons": "^3.0.1",
+    "@sentry/browser": "^4.4.1",
+    "@types/lodash": "^4.14.118",
+    "@zeit/next-typescript": "1.1.1",
+    "axios": "^0.18.0",
+    "babel-plugin-styled-components": "^1.8.0",
+    "dotenv-webpack": "^1.7.0",
+    "firebase": "^5.5.8",
+    "lodash": "^4.17.11",
+    "mobx": "^5.1.2",
+    "mobx-react": "^5.2.8",
+    "next": "^7.0.2",
+    "nprogress": "^0.2.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^3.4.10",
+    "typescript": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.0",
+    "@types/material-ui": "^0.21.5",
+    "@types/next": "^6.1.4",
+    "@types/react": "^16.7.7",
+    "@types/react-dom": "^16.0.10",
+    "mobx-react-devtools": "^6.0.3",
+    "tslint": "^5.9.1",
+    "tslint-config-standard": "^8.0.1",
+    "tslint-loader": "^3.5.3",
+    "tslint-react": "^3.4.0"
+  },
+  "license": "ISC"
+}

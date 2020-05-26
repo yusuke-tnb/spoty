@@ -1,0 +1,40 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    environment:
+      - 'MONGODB_USER=spoty'
+      - 'MONGODB_PASS=spotyapp2255world'
+    ports:
+      - "$MONGO_PORT:27017"
+    volumes:
+      - ./data/db:/data/db
+      - ./mongo/init/:/docker-entrypoint-initdb.d/
+    environment:
+      - MONGO_INITDB_DATABASE=spoty
+
+  api:
+    build:
+      args:
+        APP_ENV: "test"
+      context: .
+      dockerfile: api/Dockerfile
+    links:
+      - mongodb
+    ports:
+      - "$API_PORT:3000"
+    volumes:
+      - ./api:/src
+
+  # front:
+  #   build:
+  #     args:
+  #       REACT_APP_ENV: "$ENV"
+  #       NGINX_CONF: "$NGINX_CONF"
+  #     context: .
+  #     dockerfile: front/Dockerfile
+  #   volumes:
+  #     - ./front:/src
+  #   ports:
+  #     - "$FRONT_PORT:80"

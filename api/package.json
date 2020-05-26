@@ -1,0 +1,38 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cfenv": "^1.0.4",
+    "cluster": "^0.7.7",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.3",
+    "express": "^4.16.2",
+    "express-validation": "^1.0.2",
+    "express-winston": "^2.6.0",
+    "fs": "0.0.1-security",
+    "http-status": "^1.0.1",
+    "https": "^1.0.0",
+    "jade": "~1.11.0",
+    "joi": "^13.4.0",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.11",
+    "morgan": "^1.8.2",
+    "node-forge": "^0.7.5",
+    "nodemailer": "^4.7.0",
+    "os": "^0.1.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "serve-favicon": "^2.4.5",
+    "sha256": "^0.2.0",
+    "twitter": "^1.7.1",
+    "url": "^0.11.0",
+    "winston": "^3.1.0"
+  }
+}

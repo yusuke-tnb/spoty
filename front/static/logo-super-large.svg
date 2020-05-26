@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308.7 287.578">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fdfafa;
+        font-family: HiraKakuPro-W3, Hiragino Kaku Gothic Pro;
+      }
+
+      .cls-1 {
+        font-size: 35px;
+      }
+
+      .cls-2 {
+        font-size: 31px;
+      }
+
+      .cls-3 {
+        font-size: 45px;
+      }
+
+      .cls-4 {
+        font-size: 22px;
+      }
+
+      .cls-5 {
+        font-size: 34px;
+      }
+
+      .cls-12, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10, .cls-12, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        stroke-width: 7px;
+      }
+
+      .cls-7 {
+        stroke-width: 6px;
+      }
+
+      .cls-8 {
+        stroke-width: 5px;
+      }
+
+      .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        stroke-width: 0.75px;
+        font-size: 20px;
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+      }
+
+      .cls-12 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="ロゴ大" transform="translate(-33.5 -75)">
+    <text id="S" class="cls-1" transform="translate(49 116)"><tspan x="0" y="0">S</tspan></text>
+    <text id="p" class="cls-2" transform="translate(104 133)"><tspan x="0" y="0">p</tspan></text>
+    <text id="t" class="cls-3" transform="translate(244 115)"><tspan x="0" y="0">t</tspan></text>
+    <text id="y" class="cls-4" transform="translate(305 147)"><tspan x="0" y="0">y</tspan></text>
+    <text id="o" class="cls-5" transform="translate(156 106)"><tspan x="0" y="0">o</tspan></text>
+    <g id="グループ化_430" data-name="グループ化 430" transform="translate(24.5 87.699)">
+      <g id="グループ化_428" data-name="グループ化 428" transform="translate(9 34)">
+        <path id="パス_68" data-name="パス 68" class="cls-6" d="M271.5,122.7c2.8,1.2,5.4,2.5,7.9,3.8,16.3,8.7,25.8,19.1,25.8,30.4,0,30-67.5,54.3-150.8,54.3S3.5,186.9,3.5,156.9c0-14.1,14.9-26.9,39.3-36.6"/>
+        <g id="グループ化_427" data-name="グループ化 427">
+          <g id="グループ化_426" data-name="グループ化 426">
+            <line id="線_134" data-name="線 134" class="cls-6" y1="119.3" transform="translate(158.3 28.2)"/>
+            <line id="線_135" data-name="線 135" class="cls-6" y2="31.5" transform="translate(175.9 28.9)"/>
+            <line id="線_136" data-name="線 136" class="cls-7" y2="8.7" transform="translate(173.6 21.4)"/>
+            <line id="線_137" data-name="線 137" class="cls-7" y2="8.7" transform="translate(160.8 21.2)"/>
+            <line id="線_138" data-name="線 138" class="cls-8" y2="6.8" transform="translate(162.8 15)"/>
+            <line id="線_139" data-name="線 139" class="cls-8" y2="6.8" transform="translate(171.6 15.3)"/>
+            <line id="線_140" data-name="線 140" class="cls-9" x1="2.9" y1="16.4" transform="translate(167.3 0.3)"/>
+            <line id="線_141" data-name="線 141" class="cls-9" x1="2.7" y2="16.5" transform="translate(164 0.6)"/>
+          </g>
+          <path id="パス_69" data-name="パス 69" class="cls-6" d="M43.3,148.1l-.5-36.6-.2-15.8"/>
+          <line id="線_142" data-name="線 142" class="cls-6" x2="24.5" transform="translate(39 97.6)"/>
+          <line id="線_143" data-name="線 143" class="cls-6" y2="20.2" transform="translate(60.5 77.3)"/>
+          <line id="線_144" data-name="線 144" class="cls-6" x1="22.3" transform="translate(58.7 80.7)"/>
+          <line id="線_145" data-name="線 145" class="cls-6" y1="69.3" x2="0.5" transform="translate(77.2 78.5)"/>
+          <line id="線_146" data-name="線 146" class="cls-6" y1="12.8" transform="translate(70.7 64.8)"/>
+          <line id="線_147" data-name="線 147" class="cls-6" x2="16.8" transform="translate(68.2 68.2)"/>
+          <line id="線_148" data-name="線 148" class="cls-6" y1="17.7" x2="0.1" transform="translate(81.6 52.3)"/>
+          <line id="線_149" data-name="線 149" class="cls-6" x2="17.1" transform="translate(79.4 55.8)"/>
+          <line id="線_150" data-name="線 150" class="cls-6" y2="94.6" transform="translate(92.9 53.4)"/>
+          <line id="線_151" data-name="線 151" class="cls-6" y1="22.5" transform="translate(88.6 31.5)"/>
+          <line id="線_152" data-name="線 152" class="cls-6" x1="28.3" y2="0.1" transform="translate(85.5 30.8)"/>
+          <line id="線_153" data-name="線 153" class="cls-6" x2="23" transform="translate(103.8 119.9)"/>
+          <line id="線_154" data-name="線 154" class="cls-6" y2="17.1" transform="translate(123.5 104.3)"/>
+          <line id="線_155" data-name="線 155" class="cls-6" x1="15.7" transform="translate(120.8 107.9)"/>
+          <line id="線_156" data-name="線 156" class="cls-6" y1="16.9" transform="translate(132.8 93.9)"/>
+          <line id="線_157" data-name="線 157" class="cls-6" x1="29.4" transform="translate(129.5 96.8)"/>
+          <line id="線_158" data-name="線 158" class="cls-6" y2="29.5" transform="translate(107.1 118.5)"/>
+          <line id="線_159" data-name="線 159" class="cls-6" y1="90.1" transform="translate(172 58.1)"/>
+          <line id="線_160" data-name="線 160" class="cls-6" x2="35" transform="translate(168.5 60)"/>
+          <line id="線_161" data-name="線 161" class="cls-6" x2="13.8" y2="16.9" transform="translate(200.8 58.9)"/>
+          <line id="線_162" data-name="線 162" class="cls-6" y2="74.6" transform="translate(213.7 73.4)"/>
+          <line id="線_163" data-name="線 163" class="cls-6" y1="18.8" transform="translate(197.2 40.7)"/>
+          <line id="線_164" data-name="線 164" class="cls-6" x2="17" transform="translate(193.6 43)"/>
+          <line id="線_165" data-name="線 165" class="cls-6" x2="17" transform="translate(218.5 43.1)"/>
+          <line id="線_166" data-name="線 166" class="cls-6" y2="104.7" transform="translate(231.8 43.1)"/>
+          <line id="線_167" data-name="線 167" class="cls-6" y2="24.1" transform="translate(207.1 21.3)"/>
+          <line id="線_168" data-name="線 168" class="cls-6" y2="24.5" transform="translate(222.1 20.9)"/>
+          <line id="線_169" data-name="線 169" class="cls-6" x2="22" transform="translate(203.5 23.9)"/>
+          <line id="線_170" data-name="線 170" class="cls-6" x2="18.7" transform="translate(232.8 89.8)"/>
+          <line id="線_171" data-name="線 171" class="cls-6" y1="17.9" transform="translate(248 87.4)"/>
+          <line id="線_172" data-name="線 172" class="cls-6" x1="18.5" transform="translate(244.5 102.3)"/>
+          <line id="線_173" data-name="線 173" class="cls-6" y1="14.9" transform="translate(259.6 100.5)"/>
+          <line id="線_174" data-name="線 174" class="cls-6" x2="18.6" transform="translate(256.2 112.6)"/>
+          <line id="線_175" data-name="線 175" class="cls-6" y1="37.8" transform="translate(271.8 110.2)"/>
+          <line id="線_176" data-name="線 176" class="cls-6" x2="0.5" y2="92.5" transform="translate(110.3 29.2)"/>
+        </g>
+      </g>
+      <text id="spoty" class="cls-10" transform="translate(138.65 267.129)"><tspan x="0" y="0">spoty</tspan></text>
+      <g id="グループ化_429" data-name="グループ化 429" transform="translate(9 34)">
+        <path id="パス_70" data-name="パス 70" class="cls-11" d="M168.5,186.7H107.7l12-10.7h60.8Z"/>
+        <path id="パス_71" data-name="パス 71" class="cls-11" d="M179.3,171.4H121.7l-.1-5h57.7Z"/>
+        <path id="パス_72" data-name="パス 72" class="cls-11" d="M179.3,164.3H121.7v-5h57.6Z"/>
+        <path id="パス_73" data-name="パス 73" class="cls-11" d="M179.1,157.6H121.6v-4.9H179Z"/>
+        <line id="線_177" data-name="線 177" class="cls-12" y1="15.2" transform="translate(128.3 166.6)"/>
+        <line id="線_178" data-name="線 178" class="cls-9" y1="12.6" transform="translate(169.4 168.6)"/>
+        <line id="線_179" data-name="線 179" class="cls-12" y1="13.1" transform="translate(116.7 187.7)"/>
+        <line id="線_180" data-name="線 180" class="cls-12" y1="14.4" transform="translate(162.6 187.5)"/>
+        <line id="線_181" data-name="線 181" class="cls-12" y1="5.6" transform="translate(123.2 187.7)"/>
+        <path id="パス_74" data-name="パス 74" class="cls-11" d="M174.3,182.7v11.2H177V180.3Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
