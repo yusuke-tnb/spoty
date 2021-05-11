@@ -17,7 +17,7 @@
     "babel-plugin-styled-components": "^1.8.0",
     "dotenv-webpack": "^1.7.0",
     "firebase": "^5.5.8",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mobx": "^5.1.2",
     "mobx-react": "^5.2.8",
     "next": "^7.0.2",
