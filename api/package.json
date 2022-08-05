@@ -22,7 +22,7 @@
     "jade": "~1.11.0",
     "joi": "^13.4.0",
     "jsonwebtoken": "^8.2.0",
-    "mongoose": "^5.0.11",
+    "mongoose": "^5.7.5",
     "morgan": "^1.8.2",
     "node-forge": "^0.7.5",
     "nodemailer": "^4.7.0",
